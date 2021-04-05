@@ -20,7 +20,7 @@ body{
     display: flex;
     width: 400%;
     height: 400px;
-/* margin-left: -100%; */
+ margin-left: -100%; 
 }
 .slider__section{
     width: 100%;
